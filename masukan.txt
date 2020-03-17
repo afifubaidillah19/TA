@@ -1,0 +1,8 @@
+cari standarisasi meringkas, jadi tidak ada kata ringkasan sesuai pakar
+cari kenapa crawling tidak mau 300, sesuai dengan server
+
+Program
+data ringkasan : diambil dari summary yang sudah di save di database, view dengan judul
+pengujian : save database kemudian tampilkan, viewnya ada ringkasan pakar dan sistem + judul
+summary : save all database kemudian kirim ke data ringkasan + button save all
++ hapus
